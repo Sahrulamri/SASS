@@ -1,0 +1,12 @@
+$secondary-color:#000000cc;
+$primary-color: #ffff;
+
+header {
+    background-color: $secondary-color;
+    h1 {
+        color: $primary-color;
+    }
+    p {
+        color: $primary-color;
+    }
+}
